@@ -1,0 +1,101 @@
+[01:52:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:52:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:52:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:52:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:52:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:52:08] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[01:52:08] [Server thread/INFO]: Loading properties
+[01:52:08] [Server thread/INFO]: Default game type: SURVIVAL
+[01:52:08] [Server thread/INFO]: Generating keypair
+[01:52:08] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_181]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_181]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_181]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_181]
+	at wd$2.run(SourceFile:110) [server.jar:?]
+[01:52:08] [Server thread/INFO]: Starting Minecraft server on 192.168.0.140:25565
+[01:52:08] [Server thread/INFO]: Using default channel type
+[01:52:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:52:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:52:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:52:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:52:10] [Server thread/INFO]: Preparing level "world"
+[01:52:10] [Server thread/INFO]: Reloading ResourceManager: Default
+[01:52:11] [Server thread/INFO]: Loaded 6 recipes
+[01:52:11] [Server thread/INFO]: Loaded 825 advancements
+[01:52:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:52:14] [Server thread/INFO]: Preparing spawn area: 0%
+[01:52:14] [Server thread/INFO]: Preparing spawn area: 0%
+[01:52:14] [Server thread/INFO]: Preparing spawn area: 0%
+[01:52:14] [Server thread/INFO]: Preparing spawn area: 0%
+[01:52:14] [Server thread/INFO]: Preparing spawn area: 0%
+[01:52:14] [Server thread/INFO]: Preparing spawn area: 0%
+[01:52:14] [Server thread/INFO]: Preparing spawn area: 0%
+[01:52:15] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:52:15] [Server thread/INFO]: Preparing spawn area: 9%
+[01:52:17] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[01:52:17] [Server-Worker-2/INFO]: Preparing spawn area: 95%
+[01:52:17] [Server-Worker-2/INFO]: Preparing spawn area: 95%
+[01:52:17] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[01:52:18] [Server-Worker-3/INFO]: Preparing spawn area: 95%
+[01:52:18] [Server thread/INFO]: Time elapsed: 6703 ms
+[01:52:18] [Server thread/INFO]: Done (8.032s)! For help, type "help"
+[01:52:21] [Server thread/INFO]: piter piedra[/46.37.82.43:30737] logged in with entity id 236 at (-8.5, 64.0, -85.5)
+[01:52:21] [Server thread/INFO]: piter piedra joined the game
+[01:52:56] [Server thread/INFO]: Steve_Skerter[/89.38.21.172:63778] logged in with entity id 352 at (5.5, 64.0, -89.5)
+[01:52:56] [Server thread/INFO]: Steve_Skerter joined the game
+[01:52:59] [Server thread/INFO]: <Steve_Skerter> hoooola
+[01:53:02] [Server thread/INFO]: <Steve_Skerter> PIIIITEEEEEEEEEEEEEEEEEEEEEER
+[01:53:03] [Server thread/INFO]: Steve_Ivandigu[/81.43.42.160:56724] logged in with entity id 428 at (-9.5, 64.0, -89.5)
+[01:53:03] [Server thread/INFO]: Steve_Ivandigu joined the game
+[01:53:05] [Server thread/INFO]: <Steve_Skerter> JAJAJAJAJAJAJJAJAJAJAJA
+[01:53:10] [Server thread/INFO]: <Steve_Skerter> PIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIITER
+[01:53:13] [Server thread/INFO]: piter piedra was slain by Spider
+[01:53:14] [Server thread/INFO]: <Steve_Skerter> JAJAJAJAJAJJA
+[01:53:19] [Server thread/INFO]: <Steve_Skerter> PRIMO FOLLATE A LUCIA
+[01:53:46] [Server thread/INFO]: <Steve_Skerter> primo
+[01:53:50] [Server thread/INFO]: Steve_Skerter lost connection: Disconnected
+[01:53:50] [Server thread/INFO]: Steve_Skerter left the game
+[01:54:19] [Server thread/INFO]: Steve_Skerter[/89.38.21.172:63831] logged in with entity id 620 at (5.062540957651907, 63.0, -68.97404534183269)
+[01:54:19] [Server thread/INFO]: Steve_Skerter joined the game
+[01:54:36] [Server thread/INFO]: piter piedra was slain by Steve_Ivandigu
+[01:55:06] [Server thread/INFO]: piter piedra was shot by Skeleton
+[01:55:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[01:55:22] [Server thread/INFO]: Steve_Ivandigu was slain by Spider
+[01:55:30] [Server thread/INFO]: Steve_Skerter was slain by Spider
+[01:55:48] [Server thread/INFO]: piter piedra has made the advancement [Monster Hunter]
+[01:56:10] [Server thread/INFO]: piter piedra was shot by Skeleton
+[01:56:13] [Server thread/INFO]: Steve_Ivandigu was slain by Spider
+[01:56:55] [Server thread/INFO]: piter piedra was slain by Spider
+[01:57:28] [Server thread/INFO]: piter piedra was slain by Zombie
+[01:57:44] [Server thread/INFO]: Steve_Skerter has made the advancement [Stone Age]
+[01:57:58] [Server thread/INFO]: Steve_Ivandigu was shot by Skeleton
+[01:58:09] [Server thread/INFO]: Steve_Skerter was shot by Skeleton
+[01:58:19] [Server thread/INFO]: <Steve_Skerter> JJJAAJJA
+[01:58:23] [Server thread/INFO]: piter piedra was slain by Steve_Ivandigu
+[01:58:53] [Server thread/INFO]: Steve_Skerter lost connection: Disconnected
+[01:58:53] [Server thread/INFO]: Steve_Skerter left the game
+[01:58:57] [Server thread/INFO]: Steve_Ivandigu lost connection: Disconnected
+[01:58:57] [Server thread/INFO]: Steve_Ivandigu left the game
+[01:59:03] [Server thread/INFO]: Stopping server
+[01:59:03] [Server thread/INFO]: Saving players
+[01:59:03] [Server thread/INFO]: piter piedra lost connection: Internal Exception: java.lang.StackOverflowError
+[01:59:03] [Server thread/INFO]: piter piedra left the game
+[01:59:03] [Server thread/INFO]: Saving worlds
+[01:59:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:59:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:59:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:59:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:59:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:59:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:59:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:59:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:59:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
